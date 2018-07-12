@@ -7,3 +7,6 @@
 
       安装opencv341
 
+
+
+python3 video_mobilenet-ssd.py --video motor_bike.mp4
